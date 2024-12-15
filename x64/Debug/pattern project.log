@@ -1,0 +1,8 @@
+﻿  ASCIIConverter.cpp
+  pattern project.cpp
+  RTFReader.cpp
+  TeXConverter.cpp
+  TextConverter.cpp
+  TextWidgetConverter.cpp
+  Generating Code...
+  pattern project.vcxproj -> D:\design\pattern project\x64\Debug\pattern project.exe

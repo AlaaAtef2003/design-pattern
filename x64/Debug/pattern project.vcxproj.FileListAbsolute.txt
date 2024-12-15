@@ -1,0 +1,2 @@
+D:\c++ problems\pattern project\x64\Debug\pattern project.exe
+D:\design\pattern project\x64\Debug\pattern project.exe
