@@ -1,6 +1,7 @@
 # Ignore all .xml files
 *.xml
 
+
 # Compiled object files
 *.o
 *.obj
